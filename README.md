@@ -30,17 +30,17 @@ This project performs a comprehensive Exploratory Data Analysis on a dataset of 
 - *Scatter Plots:* Correlation between 'Votes' and 'Ratings'.
        ![screenshot ](https://github.com/archana07012002/indian-restaurant-market-analysis/commit/036f75450a302121c10c59dbaf400c67bce64eed)
 - *Box Plots:* Price range vs. Quality of service.
+       ![screenshot ](https://github.com/archana07012002/indian-restaurant-market-analysis/commit/81e2b3bf62fdfffce4a2b8376d251d2caadfe365)
 
 
 
 ## 🏁 Conclusion & Insights
-(Summarize your findings here, for example:)
 - Casual Dining establishments tend to have higher average ratings than Quick Bites.
 - There is a positive correlation between the number of photos uploaded and the total votes received.
 - Major metropolitan cities show a higher density of high-price-range restaurants.
 
 ---
 ## 📬 Contact
-Created by [Your Name] - feel free to reach out for collaboration!
+Created by [Archana] - feel free to reach out for collaboration!
 
 
