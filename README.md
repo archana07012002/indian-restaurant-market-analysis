@@ -26,8 +26,9 @@ This project performs a comprehensive Exploratory Data Analysis on a dataset of 
 
 ## 📈 Sample Visualizations
 - *Horizontal Bar Charts:* Top 10 cities by restaurant count.
-  ![screenshot ](https://github.com/archana07012002/indian-restaurant-market-analysis/commit/d84cff37ed1c8396f1b5d2ee64fdb516b8b86b55)
+       ![screenshot ](https://github.com/archana07012002/indian-restaurant-market-analysis/commit/d84cff37ed1c8396f1b5d2ee64fdb516b8b86b55)
 - *Scatter Plots:* Correlation between 'Votes' and 'Ratings'.
+       ![screenshot ](https://github.com/archana07012002/indian-restaurant-market-analysis/commit/036f75450a302121c10c59dbaf400c67bce64eed)
 - *Box Plots:* Price range vs. Quality of service.
 
 
