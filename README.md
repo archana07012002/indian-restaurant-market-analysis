@@ -25,8 +25,8 @@ This project performs a comprehensive Exploratory Data Analysis on a dataset of 
 - *Tool:* Jupyter Lab / Notebook
 
 ## 📈 Sample Visualizations
-(Note: You can add screenshots of your charts here after you generate them!)
 - *Horizontal Bar Charts:* Top 10 cities by restaurant count.
+  ![screenshot ](https://github.com/archana07012002/indian-restaurant-market-analysis/commit/d84cff37ed1c8396f1b5d2ee64fdb516b8b86b55)
 - *Scatter Plots:* Correlation between 'Votes' and 'Ratings'.
 - *Box Plots:* Price range vs. Quality of service.
 
